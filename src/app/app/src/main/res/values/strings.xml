@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Terminal</string>
-    <string name="nullval" />
+    <string name="app_name" translatable="false">Terminal</string>
+    <string name="nullval" translatable="false" />
     <string name="typecommandhint">Type a shell command to run</string>
 </resources>
